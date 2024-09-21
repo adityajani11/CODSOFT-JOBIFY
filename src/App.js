@@ -79,7 +79,7 @@ function App() {
 
           {/* OPEN ROUTES START */}
           <Route exact path='/' element={<Home mode={mode} />} />
-          <Route exact path='/Jobify' element={<Home mode={mode} />} />
+          <Route exact path='/CODSOFT-JOBIFY' element={<Home mode={mode} />} />
           <Route exact path='/login' element={<Login mode={mode} login={login} />} />
           <Route exact path='/employerLogin' element={<EmployerLogin mode={mode} login={login} />} />
           <Route exact path='/candidateSignUp' element={<CandidateSignUp mode={mode} />} />
