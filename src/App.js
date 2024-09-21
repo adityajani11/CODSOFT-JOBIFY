@@ -62,7 +62,7 @@ function App() {
 
   return (
     <>
-      <Router>
+      <Router basename="CODSOFT-JOBIFY">
         <Navbar mode={mode} toggleMode={toggleMode} setProgress={progress} user={user} login={login} logout={logout} />
         <LoadingBar color='#fc0000' progress={100} />
 
@@ -79,7 +79,7 @@ function App() {
 
           {/* OPEN ROUTES START */}
           <Route exact path='/' element={<Home mode={mode} />} />
-          <Route exact path='/CODSOFT-JOBIFY' element={<Home mode={mode} />} />
+          <Route exact path='/Jobify' element={<Home mode={mode} />} />
           <Route exact path='/login' element={<Login mode={mode} login={login} />} />
           <Route exact path='/employerLogin' element={<EmployerLogin mode={mode} login={login} />} />
           <Route exact path='/candidateSignUp' element={<CandidateSignUp mode={mode} />} />
