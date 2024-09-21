@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Jobify/static/css/main.7775893f.css",
+    "main.js": "/Jobify/static/js/main.dead031a.js",
+    "static/media/404.gif": "/Jobify/static/media/404.55e677fedbc140fea029.gif",
+    "static/media/logo.png": "/Jobify/static/media/logo.79be8d349df83da7bc0a.png",
+    "static/media/adminRegisterLogo.png": "/Jobify/static/media/adminRegisterLogo.6aca78e5a1a361e9ec94.png",
+    "static/media/gmailIcon.png": "/Jobify/static/media/gmailIcon.3bb4b76a56c6a735a1c3.png",
+    "static/media/whatsappIcon.png": "/Jobify/static/media/whatsappIcon.a16bc944e30c9a709db9.png",
+    "static/media/linkedinIcon.png": "/Jobify/static/media/linkedinIcon.f777b7eb47374360018c.png",
+    "static/media/website.png": "/Jobify/static/media/website.7c16d6f095f30abdc2db.png",
+    "static/media/conversation.png": "/Jobify/static/media/conversation.b9ae604fb37d31a732a1.png",
+    "static/media/apple.png": "/Jobify/static/media/apple.26c1edbf8aa534e657a9.png",
+    "static/media/app.png": "/Jobify/static/media/app.8ab8fcf420d9bdaf098a.png",
+    "static/media/joinUs.png": "/Jobify/static/media/joinUs.853fb23031aa731e9fc5.png",
+    "static/media/leader.png": "/Jobify/static/media/leader.fbd49b466c5c65d1b09c.png",
+    "static/media/passwordLogo.png": "/Jobify/static/media/passwordLogo.7cea04bb7313a98eb773.png",
+    "static/media/contactUsLogo.png": "/Jobify/static/media/contactUsLogo.9847a94b748767c6ac89.png",
+    "static/media/loginLogo.png": "/Jobify/static/media/loginLogo.795cb69fa4e4a066848c.png",
+    "static/media/light_dark.png": "/Jobify/static/media/light_dark.d19203d539c47c47525d.png",
+    "index.html": "/Jobify/index.html",
+    "main.7775893f.css.map": "/Jobify/static/css/main.7775893f.css.map",
+    "main.dead031a.js.map": "/Jobify/static/js/main.dead031a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7775893f.css",
+    "static/js/main.dead031a.js"
+  ]
+}
